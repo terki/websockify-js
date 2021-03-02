@@ -19,8 +19,10 @@
     "node": ">=0.8.9"
   },
   "dependencies": {
-    "ws": ">=0.4.27",
+    "finalhandler": "^1.1.2",
+    "mime-types": "latest",
     "optimist": "latest",
-    "mime-types": "latest"
+    "serve-static": "^1.14.1",
+    "ws": ">=0.4.27"
   }
 }
