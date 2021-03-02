@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "finalhandler": "^1.1.2",
+    "jsonwebtoken": "^8.5.1",
     "mime-types": "latest",
     "moment": "^2.29.1",
     "optimist": "latest",
